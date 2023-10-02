@@ -1,0 +1,452 @@
+{
+    "classic tea": [
+        {
+            "id": 0,
+            "name": "Zone Classic Tea",
+            "price": 4.00,
+            "dairy": false,
+            "caffeine": true,
+            "image": "https://gongchatea.com.au/wp-content/uploads/2019/09/TaiwanBlackTea.png"
+        },
+        {
+            "id": 1,
+            "name": "Jasmine Classic Tea",
+            "price": 4.00,
+            "dairy": false,
+            "caffeine": true,
+            "image": "https://gongchausa.com/wp-content/uploads/2021/12/%E8%9C%82%E8%9C%9C%E7%B6%A0%E8%8C%B6-Honey-Green-Tea-web.png"
+        },{
+            "id": 2,
+            "name": "Oolong Classic Tea",
+            "price": 4.00,
+            "dairy": false,
+            "caffeine": true,
+            "image": "https://gongchausa.com/wp-content/uploads/2021/12/%E8%8D%94%E6%9E%9D%E7%83%8F%E9%BE%8D-Lychee-Oolong-Tea-w.png"
+        },
+        {
+            "id": 3,
+            "name": "Wintermelon Classic Tea",
+            "price": 4.00,
+            "dairy": false,
+            "caffeine": true,
+            "image": "https://gongchausa.com/wp-content/uploads/2021/12/%E8%9C%82%E8%9C%9C%E7%B6%A0%E8%8C%B6-Honey-Green-Tea-web.png"
+        }  
+
+    ],
+
+    "milk tea": [
+        {
+            "id": 4,
+            "name": "Zone Milk Tea",
+            "price": 4.25,
+            "dairy": false,
+            "caffeine": true,
+            "image": "https://gongchausa.com/wp-content/uploads/2021/12/%E5%A5%B6%E8%8C%B6-Milk-Tea-web.png"
+        },
+        {
+            "id": 5,
+            "name": "Jasmine Milk Tea",
+            "price": 4.25,
+            "dairy": false,
+            "caffeine": true,
+            "image": "https://gongchausa.com/wp-content/uploads/2021/12/%E5%A5%B6%E8%8C%B6-Milk-Tea-web.png"
+        },
+        {
+            "id": 6,
+            "name": "Oolong Milk Tea",
+            "price": 4.25,
+            "dairy": false,
+            "caffeine": true,
+            "image": "https://gongchatea.com.au/wp-content/uploads/2019/09/OolongMilkTea.png"
+        },
+        {
+            "id": 7,
+            "name": "Wintermelon Milk Tea",
+            "price": 4.25,
+            "dairy": false,
+            "caffeine": true,
+            "image": "https://gongchausa.com/wp-content/uploads/2021/12/%E5%A5%B6%E8%8C%B6-Milk-Tea-web.png"
+        },
+        {
+            "id": 8,
+            "name": "Lavender Milk Tea",
+            "price": 4.25,
+            "dairy": false,
+            "caffeine": true,
+            "image": "https://gongchausa.com/wp-content/uploads/2021/12/%E5%A5%B6%E8%8C%B6-Milk-Tea-web.png"
+        },
+        {
+            "id": 9,
+            "name": "Lavender Butterfly Milk Tea",
+            "price": 4.25,
+            "dairy": false,
+            "caffeine": true,
+            "image": "https://gongchausa.com/wp-content/uploads/2021/12/%E5%A5%B6%E8%8C%B6-Milk-Tea-web.png"
+        },
+        {
+            "id": 10,
+            "name": "Chai Milk Tea",
+            "price": 4.25,
+            "dairy": false,
+            "caffeine": true,
+            "image": "https://gongchausa.com/wp-content/uploads/2021/12/%E5%A5%B6%E8%8C%B6-Milk-Tea-web.png"
+        },
+        {
+            "id": 11,
+            "name": "Thai Milk Tea",
+            "price": 4.25,
+            "dairy": true,
+            "caffeine": true,
+            "image": "https://gongchausa.com/wp-content/uploads/2021/12/Thai-Tea-Latte-w.png"
+        },
+        {
+            "id": 12,
+            "name": "Coconut Milk Tea",
+            "price": 4.25,
+            "dairy": false,
+            "caffeine": true,
+            "image": "https://gongchatea.com.au/wp-content/uploads/2019/09/DoubleCoconutMilkDrink.png"
+        },
+        {
+            "id": 13,
+            "name": "Matcha Milk Tea",
+            "price": 4.25,
+            "dairy": true,
+            "caffeine": true,
+            "image": "https://gongchatea.com.au/wp-content/uploads/2019/09/MatchaTeaLatte.png"
+        },
+        {
+            "id": 14,
+            "name": "Taro Milk Tea",
+            "price": 4.25,
+            "dairy": false,
+            "caffeine": true,
+            "image": "https://gongchausa.com/wp-content/uploads/2021/12/%E8%8A%8B%E9%A0%AD%E7%89%B9%E8%AA%BF-Taro-Milk-Drink-w.png"
+        },
+        {
+            "id": 15,
+            "name": "Brown Sugar Milk Tea",
+            "price": 4.25,
+            "dairy": true,
+            "caffeine": true,
+            "image": "https://gongchausa.com/wp-content/uploads/2022/01/Creme-Brulee-Brown-Sugar-Milk-Tea.png"
+        },
+        {
+            "id": 16,
+            "name": "Almond Milk Tea",
+            "price": 4.25,
+            "dairy": false,
+            "caffeine": true,
+            "image": "https://gongchausa.com/wp-content/uploads/2021/12/%E5%A5%B6%E8%8C%B6-Milk-Tea-web.png"
+        },
+        {
+            "id": 17,
+            "name": "Honey Milk Tea",
+            "price": 4.25,
+            "dairy": false,
+            "caffeine": true,
+            "image": "https://gongchausa.com/wp-content/uploads/2021/12/%E5%A5%B6%E8%8C%B6-Milk-Tea-web.png"
+        },
+        {
+            "id": 18,
+            "name": "Honeydew Milk Tea",
+            "price": 4.25,
+            "dairy": false,
+            "caffeine": true,
+            "image": "https://gongchausa.com/wp-content/uploads/2022/01/Matcha-Tea-Latte-2.png"
+        }
+    ],
+
+    "coffee": [
+        {
+            "id": 55,
+            "name": "Vietnamese Iced Coffee",
+            "price": 4.75,
+            "dairy": true,
+            "caffeine": true,
+            "image": "https://gongchausa.com/wp-content/uploads/2021/12/%E6%89%8B%E5%B7%A5%E5%92%96%E5%95%A1-Milk-Coffee-w.png"
+        }
+    ],
+    
+    "fruit tea": [
+        {
+            "id": 19,
+            "name": "Strawberry Fruit Tea",
+            "price": 4.25,
+            "dairy": false,
+            "caffeine": true,
+            "image": "https://gongchausa.com/wp-content/uploads/2021/12/%E8%8D%89%E8%8E%93%E7%B6%A0%E8%8C%B6-Strawberry-Green-Tea-w.png"
+        },
+        {
+            "id": 20,
+            "name": "Strawberry Lemonade Tea",
+            "price": 4.25,
+            "dairy": false,
+            "caffeine": true,
+            "image": "https://gongchausa.com/wp-content/uploads/2021/12/%E8%8D%89%E8%8E%93%E7%B6%A0%E8%8C%B6-Strawberry-Green-Tea-w.png"
+        },
+        {
+            "id": 21,
+            "name": "Mango Fruit Tea",
+            "price": 4.25,
+            "dairy": false,
+            "caffeine": true,
+            "image": "https://gongchatea.com.au/wp-content/uploads/2019/09/GrapefruitGreenTea.png"
+        },
+        {
+            "id": 22,
+            "name": "Mango Pineapple Fruit Tea",
+            "price": 4.25,
+            "dairy": false,
+            "caffeine": true,
+            "image": "https://gongchatea.com.au/wp-content/uploads/2019/09/GrapefruitGreenTea.png"
+        },
+        {
+            "id": 23,
+            "name": "Lemon Butterfly Fruit Tea",
+            "price": 4.25,
+            "dairy": false,
+            "caffeine": true,
+            "image": "https://gongchausa.com/wp-content/uploads/2021/12/%E8%9C%82%E8%9C%9C%E7%B6%A0%E8%8C%B6-Honey-Green-Tea-web.png"
+        },
+        {
+            "id": 24,
+            "name": "Passion Fruit Tea",
+            "price": 4.25,
+            "dairy": false,
+            "caffeine": true,
+            "image": "https://gongchatea.com.au/wp-content/uploads/2019/09/GrapefruitGreenTea.png"
+        },
+        {
+            "id": 25,
+            "name": "Peach Fruit Tea",
+            "price": 4.25,
+            "dairy": false,
+            "caffeine": true,
+            "image": "https://gongchatea.com.au/wp-content/uploads/2019/09/PeachGreenTea.png"
+        },
+        {
+            "id": 26,
+            "name": "Peach Oolong Fruit Tea",
+            "price": 4.25,
+            "dairy": false,
+            "caffeine": true,
+            "image": "https://gongchausa.com/wp-content/uploads/2021/12/%E8%8D%94%E6%9E%9D%E7%83%8F%E9%BE%8D-Lychee-Oolong-Tea-w.png"
+        },
+        {
+            "id": 27,
+            "name": "Lychee Fruit Tea",
+            "price": 4.25,
+            "dairy": false,
+            "caffeine": true,
+            "image": "https://gongchatea.com.au/wp-content/uploads/2019/09/LycheeOolongTea.png"
+        },
+        {
+            "id": 28,
+            "name": "Lychee Butterfly Fruit Tea",
+            "price": 4.25,
+            "dairy": false,
+            "caffeine": true,
+            "image": "https://gongchatea.com.au/wp-content/uploads/2019/09/LycheeOolongTea.png"
+        },
+        {
+            "id": 29,
+            "name": "Orange Green Fruit Tea",
+            "price": 4.25,
+            "dairy": false,
+            "caffeine": true,
+            "image": "https://gongchatea.com.au/wp-content/uploads/2019/09/GrapefruitGreenTea.png"
+        }
+    ],
+
+    "icy cool": [
+        {
+            "id": 30,
+            "name": "Strawberry Slush",
+            "price": 5.25,
+            "dairy": false,
+            "caffeine": false,
+            "image": "https://www.gong-cha.com.tw/uploads/signature-products/64b7b64f4ead2.png"
+        },
+        {
+            "id": 31,
+            "name": "Strawberry Lemonade Slush",
+            "price": 5.25,
+            "dairy": false,
+            "caffeine": false,
+            "image": "https://www.gong-cha.com.tw/uploads/signature-products/64b7b64f4ead2.png"
+        },
+        {
+            "id": 32,
+            "name": "Mango Slush",
+            "price": 5.25,
+            "dairy": false,
+            "caffeine": false,
+            "image": "https://gongchausa.com/wp-content/uploads/2021/12/%E8%8A%92%E6%9E%9C%E5%86%B0%E6%B2%99-Mango-Smoothie-web.png"
+        },
+        {
+            "id": 33,
+            "name": "Mango Pineapple Slush",
+            "price": 5.25,
+            "dairy": false,
+            "caffeine": false,
+            "image": "https://gongchausa.com/wp-content/uploads/2021/12/%E8%8A%92%E6%9E%9C%E5%86%B0%E6%B2%99-Mango-Smoothie-web.png"
+        },
+        {
+            "id": 34,
+            "name": "Passion Fruit Paradise Slush",
+            "price": 5.25,
+            "dairy": false,
+            "caffeine": false,
+            "image": "https://gongchausa.com/wp-content/uploads/2021/12/%E8%8A%92%E6%9E%9C%E5%86%B0%E6%B2%99-Mango-Smoothie-web.png"
+        },
+        {
+            "id": 35,
+            "name": "Lychee Paradise",
+            "price": 5.25,
+            "dairy": false,
+            "caffeine": false,
+            "image": "https://gongchausa.com/wp-content/uploads/2021/12/Lychee-Slush-web.png"
+        },
+        {
+            "id": 36,
+            "name": "Peach Slush",
+            "price": 5.25,
+            "dairy": false,
+            "caffeine": false,
+            "image": "https://gongchausa.com/wp-content/uploads/2021/12/%E7%99%BE%E9%A6%99%E6%9E%9C%E5%84%AA%E6%A0%BC%E5%86%B0%E6%B2%99-Passionfruit-Yogurt-Slush-web.png"
+        }
+    ],
+
+    "snow": [
+        {
+            "id": 37,
+            "name": "Strawberry Snow",
+            "price": 5.25,
+            "dairy": false,
+            "caffeine": false,
+            "image": "https://www.gong-cha.com.tw/uploads/signature-products/64b7b64f4ead2.png"
+        },
+        {
+            "id": 38,
+            "name": "Strawberry Mango Snow",
+            "price": 5.25,
+            "dairy": false,
+            "caffeine": false,
+            "image": "https://www.gong-cha.com.tw/uploads/signature-products/64b7b64f4ead2.png"
+        },
+        {
+            "id": 39,
+            "name": "Strawberry Banana Snow",
+            "price": 5.25,
+            "dairy": false,
+            "caffeine": false,
+            "image": "https://www.gong-cha.com.tw/uploads/signature-products/64b7b64f4ead2.png"
+        },
+        {
+            "id": 40,
+            "name": "Strawberry Coconut Snow",
+            "price": 5.25,
+            "dairy": false,
+            "caffeine": false,
+            "image": "https://www.gong-cha.com.tw/uploads/signature-products/64b7b64f4ead2.png"
+        },
+        {
+            "id": 41,
+            "name": "Mango Snow",
+            "price": 5.25,
+            "dairy": false,
+            "caffeine": false,
+            "image": "https://gongchausa.com/wp-content/uploads/2021/12/%E8%8A%92%E6%9E%9C%E5%86%B0%E6%B2%99-Mango-Smoothie-web.png"
+        },
+        {
+            "id": 42,
+            "name": "Mango Pinapple Snow",
+            "price": 5.25,
+            "dairy": false,
+            "caffeine": false,
+            "image": "https://gongchausa.com/wp-content/uploads/2021/12/%E8%8A%92%E6%9E%9C%E5%86%B0%E6%B2%99-Mango-Smoothie-web.png"
+        },
+        {
+            "id": 43,
+            "name": "Peach Snow",
+            "price": 5.25,
+            "dairy": false,
+            "caffeine": false,
+            "image": "https://gongchausa.com/wp-content/uploads/2021/12/%E8%8A%92%E6%9E%9C%E5%86%B0%E6%B2%99-Mango-Smoothie-web.png"
+        },
+        {
+            "id": 44,
+            "name": "Pina Colada Snow",
+            "price": 5.25,
+            "dairy": false,
+            "caffeine": false,
+            "image": "https://gongchausa.com/wp-content/uploads/2021/12/%E7%99%BE%E9%A6%99%E6%9E%9C%E5%84%AA%E6%A0%BC%E5%86%B0%E6%B2%99-Passionfruit-Yogurt-Slush-web.png"
+        },
+        {
+            "id": 45,
+            "name": "Taro Snow",
+            "price": 5.25,
+            "dairy": false,
+            "caffeine": false,
+            "image": "https://gongchausa.com/wp-content/uploads/2021/12/Taro-Slush-web.png"
+        },
+        {
+            "id": 46,
+            "name": "Thai Tea Snow",
+            "price": 5.25,
+            "dairy": false,
+            "caffeine": false,
+            "image": "https://gongchausa.com/wp-content/uploads/2021/12/%E6%8A%B9%E8%8C%B6%E9%AE%AE%E5%A5%B6%E5%86%B0%E6%B2%99-Matcha-Milk-Slush-web.png"
+        },
+        {
+            "id": 47,
+            "name": "Coconut Snow",
+            "price": 5.25,
+            "dairy": false,
+            "caffeine": false,
+            "image": "https://gongchausa.com/wp-content/uploads/2021/12/%E6%8A%B9%E8%8C%B6%E9%AE%AE%E5%A5%B6%E5%86%B0%E6%B2%99-Matcha-Milk-Slush-web.png"
+        },
+        {
+            "id": 48,
+            "name": "Chai Tea Snow",
+            "price": 5.25,
+            "dairy": false,
+            "caffeine": false,
+            "image": "https://gongchausa.com/wp-content/uploads/2021/12/%E6%8A%B9%E8%8C%B6%E9%AE%AE%E5%A5%B6%E5%86%B0%E6%B2%99-Matcha-Milk-Slush-web.png"
+        },
+        {
+            "id": 49,
+            "name": "Matcha Green Snow",
+            "price": 5.25,
+            "dairy": false,
+            "caffeine": true,
+            "image": "https://gongchausa.com/wp-content/uploads/2021/12/%E6%8A%B9%E8%8C%B6%E9%AE%AE%E5%A5%B6%E5%86%B0%E6%B2%99-Matcha-Milk-Slush-web.png"
+        },
+        {
+            "id": 50,
+            "name": "Mocha Snow",
+            "price": 5.25,
+            "dairy": false,
+            "caffeine": false,
+            "image": "https://gongchacolorado.com/wp-content/uploads/2021/12/%E7%84%A6%E7%B3%96%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%86%B0%E6%B2%99-Caramel-Chocolate-Slush-web.png"
+        },
+        {
+            "id": 51,
+            "name": "Mocha Coffee Snow",
+            "price": 5.25,
+            "dairy": true,
+            "caffeine": true,
+            "image": "https://gongchacolorado.com/wp-content/uploads/2021/12/%E7%84%A6%E7%B3%96%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%86%B0%E6%B2%99-Caramel-Chocolate-Slush-web.png"
+        },
+        {
+            "id": 52,
+            "name": "Cookies N' Cream Snow",
+            "price": 5.25,
+            "dairy": true,
+            "caffeine": false,
+            "image": "https://gongchacolorado.com/wp-content/uploads/2021/12/%E7%84%A6%E7%B3%96%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%86%B0%E6%B2%99-Caramel-Chocolate-Slush-web.png"
+        }
+    ]
+    
+}
