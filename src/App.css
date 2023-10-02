@@ -451,9 +451,9 @@
 
 }
 
-@media screen and (max-width: 1050px) {
-    .cart-container {
-        height: 450px;
+@media screen and (max-width: 1200px) {
+    .more-buttons {
+        margin: 120px 0;
     }
     
 }
